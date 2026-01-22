@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "title": "Biomaterials & Tissue Engineering Lab",
+    "subtitle": "Innovating at the intersection of material science and regenerative medicine.",
+    "labName": "Prof. Shan Hui Hsu Lab",
+    "institution": "National Taiwan University"
+  },
+  "intro": {
+    "heading": "Pioneering Regenerative Solutions",
+    "content": "Our laboratory focuses on the development of novel biomaterials for tissue engineering, drug delivery, and regenerative medicine. We specialize in polymer synthesis, hydrogels, and 3D bioprinting technologies to address critical medical challenges."
+  },
+  "news": [
+    {
+      "id": 1,
+      "date": "2024-05-15",
+      "title": "New Publication in Advanced Materials",
+      "summary": "Our latest research on self-healing hydrogels for neural regeneration has been published."
+    },
+    {
+      "id": 2,
+      "date": "2024-04-02",
+      "title": "Welcome New PhD Students",
+      "summary": "The lab welcomes three new doctoral candidates to the tissue engineering team."
+    },
+    {
+      "id": 3,
+      "date": "2024-03-10",
+      "title": "Best Poster Award at TERMIS-AP",
+      "summary": "Lab member John Doe received the Best Poster Award at the 2024 conference."
+    }
+  ]
+}
